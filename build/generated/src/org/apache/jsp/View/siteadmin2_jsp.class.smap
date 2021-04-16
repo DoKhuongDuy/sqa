@@ -1,0 +1,22 @@
+SMAP
+siteadmin2_jsp.java
+JSP
+*S JSP
+*F
++ 0 siteadmin2.jsp
+View/siteadmin2.jsp
++ 1 site_admin.css
+CSS/site_admin.css
+*L
+1,11:52
+1#1,252:63
+11#0,48:315
+60,6:365
+65,2:371
+67,7:373,3
+74,3:394
+77:397,3
+78,6:400
+84,3:407
+86,108:410
+*E
